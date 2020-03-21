@@ -4,7 +4,7 @@ El Presidente Piñera dijo en una entrevista que la situación Chilena era muy d
 El Ministro de Salud Mañalich declaro que a lo mejor el virus podría volverse *bueno* y no afectar tanto a Chile.
 
 Frente a la crisis sanitaria, es bueno **mirar los datos actuales** de la epidemia para entender mejor la situación chilena.
-La Universidad Estadounidense Johns Hopkins puso a disposición de todo el mundo una muy buena (pagina de visualización)[https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6] de los casos de covid-19 en el mundo, a partir datos recopilados de distintos organismos internacionales. Estos datos se pueden encontrar [acá](https://github.com/CSSEGISandData/COVID-19).
+La Universidad Estadounidense Johns Hopkins puso a disposición de todo el mundo una muy buena [pagina de visualización](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) de los casos de covid-19 en el mundo, a partir datos recopilados de distintos organismos internacionales. Estos datos se pueden encontrar [acá](https://github.com/CSSEGISandData/COVID-19).
 
 **Usando estos datos, les voy a presentar brevemente algunos gráficos para mostrar que el Presidente Piñera miente cuando dice que Chile va mejor que Italia, y que a pesar de lo que dice su ministro de Salud Mañalich, existen maneras de luchar contra la epidemía sin esperar pasivamente que el virus se ponga *buena onda*.**
 
