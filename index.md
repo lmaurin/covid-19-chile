@@ -20,6 +20,8 @@ Para visualizar mejor la evolución, vamos a usar una escala **logaritmica** en 
 Ahora se aprecia mejor la evolución de la epidemia en cada país. **Lo importante no es tanto la cantidad de casos en este momento, pero la velocidad a la cual están aumentando los casos**. Eso se ve representado en el grafico por la **pendiente** de cada curva.
 
 Para poder comparar aún mejor los países, lo ideal sería poder comparar la evolución desde que entró el virus al país. En la practica es difícil saber exactamente cuando llegó el virus, por lo cual vamos a tomar como día de referencia el día en lo cual cada país haya alcanzado al menos 100 casos. Así podemos *sincronizar* las curvas y comparar la evolución en cada país.
-
-
 ![](Plots/logarithmic_offset.png)
+
+No todas la curvas alcanzan a llegar a la derecha del graficó. Eso solo significa que **algunos países llevan más tiempo en la epidemia que otros**. En Chile en particular solo han pasado 4 días desde que se hayan diagnosticado más de 100 personas enfermas. Sin embargo, queda muy claro que **Chile no esta mejor preparado que Italia, o que España, Francia, Alemania y Estados Unidos. Y si no se toman medidas sanitarias iguales o más fuertes que en estos países, la situación será igual o peor en algunos días más.**
+
+Japon y Singapore son los únicos dos que tienen una propagación mucho más lenta, y son los ejemplos a seguir para evitar un desastre y decenas o centenas de miles de muertos en Chile.
