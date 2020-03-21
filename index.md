@@ -4,6 +4,10 @@ El Presidente Piñera dijo en una entrevista que la situación Chilena era muy d
 El Ministro de Salud Mañalich declaro que a lo mejor el virus podría volverse *bueno* y no afectar tanto a Chile.
 
 Frente a la crisis sanitaria, es bueno **mirar los datos actuales** de la epidemia para entender mejor la situación chilena.
+La Universidad Estadounidense Johns Hopkins puso a disposición de todo el mundo una muy buena (pagina de visualización)[https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6] de los casos de covid-19 en el mundo, a partir datos recopilados de distintos organismos internacionales. Estos datos se pueden encontrar [acá](https://github.com/CSSEGISandData/COVID-19).
+
+**Usando estos datos, les voy a presentar brevemente algunos gráficos para mostrar que el Presidente Piñera miente cuando dice que Chile va mejor que Italia, y que a pesar de lo que dice su ministro de Salud Mañalich, existen maneras de luchar contra la epidemía sin esperar pasivamente que el virus se ponga *buena onda*.**
+
 
 Para no sobrecargar los gráficos, elige solo algunos países del mundo, que me parecían representativo de las distintas tendencias de propagación, y en distintas etapas. Estos países son **España, Italia, Francia, Alemania, Estados Unidos, Japon y Singapore**. Excluí a China porque el contexto Chino es difícilmente comparable con Chile y otros países (las medidas que se tomaron en China probablemente no serían aplicables en otros países).
 
@@ -11,7 +15,7 @@ El primer graficó muestra directamente la evolución de la cantidad de casos di
 
 ![](Plots/linear.png)
 
-Es difícil interpretar este grafico porque antes de final de Febrero, principio de Marzo, todas la curvas están muy cercana a 0, antes de despegar muy rápidamente. Este tipo de comportamiento es típico de las epidemias, y por eso son tan peligrosas. Por eso también decir que de momento hay menos muertos por el coronavirus que por la gripe estacional, por accidente de transito o por la represión del gobierno, no tiene sentido, porque una vez que empieza a subir, ya es demasiado tarde para reaccionar. A este comportamiento se le llama **exponencial**.
+Es difícil interpretar este grafico porque antes de final de Febrero, principio de Marzo, todas la curvas están muy cercana a 0, antes de despegar muy rápidamente. **Chile esta todavía en esta primera fase, antes del despegue**. Este tipo de comportamiento es típico de las epidemias, y por eso son tan peligrosas. Por eso también decir que de momento hay menos muertos por el coronavirus que por la gripe estacional, por accidente de transito o por la represión del gobierno, no tiene sentido, porque una vez que empieza a subir, ya es demasiado tarde para reaccionar. A este comportamiento se le llama **exponencial**.
 
 Para visualizar mejor la evolución, vamos a usar una escala **logaritmica** en el eje vertical. Es decir que la distancia entre dos graduaciones ya no es la misma, sino que va aumentando exponencialmente. Entre cada graduación la cantidad de casos será **multiplicada por 10**.
 
