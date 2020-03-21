@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 
 title: [Coronavirus en Chile]
 description: [Cual es la situación de Chile frente al coronavirus. Algunos graficos para comparar Chile con otros paises del mundo.]
+
+google_analytics: [UA-160598389-2]
