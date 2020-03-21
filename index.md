@@ -1,3 +1,5 @@
+[](https://s1.qwant.com/thumbr/0x380/3/6/cf3243090dec69a716b600980297435f902ea2555f271d64f96a75a8138d33/RTS301GM-1024x576.jpg?u=https%3A%2F%2Fd3i6fh83elv35t.cloudfront.net%2Fstatic%2F2020%2F01%2FRTS301GM-1024x576.jpg&q=0&b=1&p=0&a=1)
+
 # Chile y el Coronavirus
 
 El Presidente Piñera dijo en una entrevista que la situación Chilena era muy distinta a la de Italia, y que el país estaba mucho mejor preparado.
